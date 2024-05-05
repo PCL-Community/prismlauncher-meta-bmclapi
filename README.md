@@ -1,4 +1,4 @@
-# Prismlauncher Meta 加速
+# Prism Launcher Meta 加速
 
 ## 使用方法
 
